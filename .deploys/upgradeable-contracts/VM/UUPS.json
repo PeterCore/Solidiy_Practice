@@ -1,0 +1,11 @@
+{
+  "id": "-",
+  "network": "VM",
+  "deployments": {
+    "0x9bF88fAe8CF8BaB76041c1db6467E7b37b977dD7": {
+      "date": "2024-07-06T08:35:45.614Z",
+      "contractName": "UpgradableContract",
+      "implementationAddress": "0x417Bf7C9dc415FEEb693B6FE313d1186C692600F"
+    }
+  }
+}
